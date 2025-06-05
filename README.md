@@ -11,6 +11,8 @@ it´s time for coding
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ferick-alejandro-ramirez-02615798%2F) 
 
 ### :zap: Actividad Reciente
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 <!-- Proyectos recientes-->
 <!-- -->
 
