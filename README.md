@@ -1,14 +1,20 @@
 ## Hi there 👋
-:pencil: **Mi primer version de mi Readme**
-### About me
-:saxofón: **I like play the sax and i love the ritym´s ska**
+ 
+## :wrench: Developer backend :wrench:</h2> 
+* I am 35 years old.
+* I from México.
+* i want build some apps :rocket:
+* i like my self learning any technology 
+* I love músic and play :saxophone: ** i love the ritym´s ska**. 
+
 
 ```bash
-it´s time for coding
+print("let´s do it!")
 ```
 
 ##  Contacto
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ferick-alejandro-ramirez-02615798%2F) 
+[Linkedin](https://www.linkedin.com/in/erick-alejandro-ramirez-02615798/) 
+
 <!--
 **Alex7769/Alex7769** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,4 +28,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://github-readme-stats.vercel.app/api?username=Alex7769&icons=true --Grafico de actividades
 -->
