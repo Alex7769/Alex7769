@@ -7,11 +7,24 @@
 * i like my self learning any technology 
 * I love músic and play :saxophone: ** i love the ritym´s ska**. 
 
-
 ```bash
 print("let´s do it!")
 ```
 
+### :zap: Actividad Reciente
+<!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [Alex7769/miPrimerRepo](https://github.com/Alex7769/miPrimerRepo)<br>
+2. ⬆️ Pushed 1 commit(s) to [Alex7769/Alex77.github.io](https://github.com/Alex7769/Alex77.github.io)<br>
+3. 📔 Created new repository [Alex7769/Alex77.github.io](https://github.com/Alex7769/Alex77.github.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [Alex7769/Alex7769](https://github.com/Alex7769/Alex7769)<br>
+5. 📔 Created new repository [Alex7769/Alex7769](https://github.com/Alex7769/Alex7769)<br>
+<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Wednesday, June 11th, 2025, 1:05:17 PM
+<!--RECENT_ACTIVITY:last_update_end-->
+
+<!-- Proyectos recientes-->
+<!-- -->
 ##  Contacto
 [Linkedin](https://www.linkedin.com/in/erick-alejandro-ramirez-02615798/) 
 
